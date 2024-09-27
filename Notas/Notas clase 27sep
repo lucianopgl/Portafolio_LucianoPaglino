@@ -1,0 +1,7 @@
+express = servidor web
+middleware es una funcion que interactua en el ciclo de vida en la comunicacion cuando 
+se realiza un request. Son muchas funciones q constituyen el ciclo de vida de una solicitud
+El CORS es una libreria q libera o no cuando se realiza un request. Es un middleware
+Valida la peticion.
+Un middleware comun es un controlador de errores
+_____________________________________________________________________________________________
